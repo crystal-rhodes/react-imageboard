@@ -1,0 +1,35 @@
+/* input */
+.inputfield{
+  width: 250px;
+  padding: 25px 25px 0px 15px;
+  margin: 0 auto;
+}
+.inputfield input, .inputfield textarea{
+  background-color: #333;
+  border: #666 1px solid;
+}
+
+textarea{
+  width: 226px;
+  height: 104px;
+}
+
+input[type="submit"]{
+  background: #333333;
+  border: #888 1px solid;
+  margin: #CCC;
+}
+input[type="submit"]:hover {
+  background: #555;
+  border: #888 1px solid;
+  color: #32DD72;
+}
+
+.icons {
+  font-size: 2em;
+  text-align: center;
+}
+
+.icon {
+  margin: 10px;
+}
